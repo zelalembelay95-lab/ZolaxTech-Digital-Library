@@ -16,7 +16,7 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 // ----- EDIT THESE 4 LINES WHEN YOU DEPLOY -----
-$db_host = "zolaxdigitallibrary.site.je";
+$db_host = "sql308.infinityfree.com";
 $db_name = "if0_42847514_digital_library";
 $db_user = "if0_42847514";
 $db_pass = "Sewmh101";
