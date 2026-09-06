@@ -16,10 +16,10 @@ if (session_status() === PHP_SESSION_NONE) {
 }
 
 // ----- EDIT THESE 4 LINES WHEN YOU DEPLOY -----
-$db_host = "localhost";
-$db_name = "digital_library";
-$db_user = "root";
-$db_pass = "";
+$db_host = "zolaxdigitallibrary.site.je";
+$db_name = "if0_42847514_digital_library";
+$db_user = "if0_42847514";
+$db_pass = "Sewmh101";
 // -----------------------------------------------
 
 $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
